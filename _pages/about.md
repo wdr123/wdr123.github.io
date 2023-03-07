@@ -8,23 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+Welcome! I am a machine learning and reinforcement learning researcher who strives to solve difficult problems in AGI field. I am also an affiliated
+researcher with the [Machine Learning and Data Intensive Computing Lab](https://www.rit.edu/mining/).
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
+Currently I am a PhD candidate in Computer Science from the [Rochester Institute *of* Technology](https://www.rit.edu/) and my
+B.E. in Software Engineering from [Dalian University of Technology](https://en.dlut.edu.cn/).
 My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+*ICDM*, *ACM MM*, among other outlets. This [research](research) tries to solve RL online interaction unavailability under safety or economic concerns by using a broad variety of methods such as
+offline learning, inverse RL, distributional RL, meta learning and active learning. While primarily focused on small dataset novel algorithm development, I am also enthusiastic in applying RL
+technique to real-world problems in CV, NLP, recommender system, medicine, etc. 
+
+[//]: # (I have [teaching]&#40;teaching&#41; experience)
+
+[//]: # (in both quantitative methodology and international relations, and am a certified)
+
+[//]: # (instructor with [The Carpentries]&#40;https://carpentries.org&#41;.)
