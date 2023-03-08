@@ -1,12 +1,7 @@
 ---
-layout: archive
 permalink: /projects/
 title: "Projects"
-author_profile: true
-header:
-og_image: "projects/chineseocr.png"
 ---
-
 
 {% include base_path %}
 

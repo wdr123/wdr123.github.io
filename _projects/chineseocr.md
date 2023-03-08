@@ -12,5 +12,5 @@ In this project I design a website from scratch, which could detect chinese char
 accordingly generate a formalized table template, including csv, xml, json and pdf format to download and for large-scale machine processing. 
 
 ## Git Repo
-[GitHub Repo](https://github.com/wdr123/chineseocr);{: .btn--research}
+[GitHub Repo](https://github.com/wdr123/chineseocr){: .btn--research}
 
