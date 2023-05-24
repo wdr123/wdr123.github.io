@@ -3,6 +3,9 @@ title: "Evidential Deep Set Exploration on ASD problems"
 collection: publications
 permalink: /publication/2023-DTS-ERA
 date: 2023-01-01
-citation: 'Working paper.'
----
+venue: '2021 IEEE International Conference on Machine Learning (ICML)'
+paperurl: '/files/pdf/research/ICML_2023_Reinforced_Deep_Set.pdf'
 
+github: 'https://github.com/wdr123/DTS_ERA'
+citation: In Press
+---
