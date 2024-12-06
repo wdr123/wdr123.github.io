@@ -18,8 +18,3 @@ offline learning, inverse RL, imitation RL, distributional RL, and meta RL. Whil
 technique to real-world applications like time series analysis, speech recognition, dense object detection, LLMs safety alignment, network compression, recommender system, medicine, etc. 
 
 Currently, I am working on RL driven LLM safety alignment, multi-modal fusion and quantization. Besides, I also spend time on LLM benchmark construction, including data set collection and model evaluation.
-[//]: # (I have [teaching]&#40;teaching&#41; experience)
-
-[//]: # (in both quantitative methodology and international relations, and am a certified)
-
-[//]: # (instructor with [The Carpentries]&#40;https://carpentries.org&#41;.)
