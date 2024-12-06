@@ -17,9 +17,7 @@ My academic work has been [published](publications) or is forthcoming in
 offline learning, inverse RL, imitation RL, distributional RL, and meta RL. While primarily focused on small dataset novel algorithm development, I am also enthusiastic in applying RL
 technique to real-world applications like time series analysis, speech recognition, dense object detection, LLMs safety alignment, network compression, recommender system, medicine, etc. 
 
-Nowadays, I am particularly interested in LLM related benchmark construction, evaluation and applications, by using LangChain and leveraging RAG guided prompts
-to adapt its prior knowledge into subdomains. Besides, I also spent time in LLM related quantization, multi-modal fusion or safety alignment literature review.
-
+Currently, I am working on RL driven LLM safety alignment, multi-modal fusion and quantization. Besides, I also spend time on LLM benchmark construction, including data set collection and model evaluation.
 [//]: # (I have [teaching]&#40;teaching&#41; experience)
 
 [//]: # (in both quantitative methodology and international relations, and am a certified)
