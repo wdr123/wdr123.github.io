@@ -16,10 +16,8 @@ My academic work has been [published](publications) in
 *ICDM*, *KDD*, *ICML*, *Neurips*, *ICLR*, *MICCAI*, *ACM MM*, among other outlets. Although my [research](research) focused on small dataset by developing novel offline or semi-online RL algorithms, I am experienced and interested in applying RL
 technique to real-world applications like time series analysis, speech recognition, dense object detection, LLMs safety alignment, network compression, recommender system, medical data, etc. 
 
-Nowadays, I am focusing on RL guided model compression and safety alignment for LLMs, by incorporating uncertainty related theory and practice.
+Nowadays, I am focusing on RL guided model compression and safety alignment for LLMs, by incorporating uncertainty related theory and practice. Besides, I also spend time on LLM benchmark construction, including data collection and model evaluation.
 
 [//]: # (I have [teaching]&#40;teaching&#41; experience)
 
 [//]: # (in both quantitative methodology and international relations, and am a certified)
-
-[//]: # (instructor with [The Carpentries]&#40;https://carpentries.org&#41;.)
